@@ -11,7 +11,7 @@ export default function App() {
         </header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="peace" />
         </main>
         <footer className='App-footer'>Created by Iryna Polchaninova</footer>
       </div>
