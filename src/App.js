@@ -13,7 +13,8 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="peace" />
         </main>
-        <footer className='App-footer'>Created by Iryna Polchaninova</footer>
+        <footer className='App-footer'>Coded by Iryna Polchaninova and it is <a href="https://github.com/IraPolchanin/dictionary-project" target="_blank" rel="noopener noreferrer">open-sourced</a>
+        </footer>
       </div>
     </div>
   );
